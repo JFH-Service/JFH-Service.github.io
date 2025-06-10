@@ -11,7 +11,7 @@ Prof. Junfei Huang joined the Department of Decisions, Operations and Technology
 Stochastic Modeling and Optimization, Numerical Methods and Algorithms, Service Management.
 
 ## Selected Papers
-- J. Huang, A. Mandelbaum, and P. Mom$\check{c}$ilovi$\acute{c}$, [QED Appointment](Papers/QED_Appt_May2025.pdf)
+- J. Huang, A. Mandelbaum, and P. Mom$\check{c}$ilovi$\acute{c}$, [QED Appointment](Papers/QED_Appt_May2025.pdf), *Working Paper*. 
 - X. Gao  and J. Huang, [Asymptotically Optimal Control of Make-to-Stock Systems](https://doi.org/10.1287/moor.2021.0161), *Mathematics of Operations Research*, Forthcoming.
 - A. Braverman, I. Gurvich, and J. Huang (2020), [On the Taylor Expansion of Value Functions](https://doi.org/10.1287/opre.2019.1903), *Operations Research*, 68(2), 631-654.
 - J. Huang and I. Gurvich (2018), [Beyond Heavy-Traffic Regimes: Universal Bounds and Controls for the Single-Server Queue](https://doi.org/10.1287/opre.2017.1715), *Operations Research*, 66(4), 1168-1188.
